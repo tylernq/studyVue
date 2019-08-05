@@ -4,6 +4,7 @@
             <li v-for="j in LeeArr" :key="j" style="margin-bottom:20px">LeeArr:{{j}}</li>
         </ol>
         LeeArr: <input type="text" v-model.number="val">
+        
         <child @childtest="Leetest" :childlist="LeeArr"></child>
 
 

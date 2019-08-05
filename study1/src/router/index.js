@@ -22,6 +22,11 @@ export default new Router({
       path: '/jiugongge',
       name: 'JiuGongGe',
       component: JiuGongGe,
+    },
+    {
+      path: '/test',
+      name: 'test',
+      component: resolve => require(['@/views/test.vue'], resolve),
     }
 
   ]
