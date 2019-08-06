@@ -22,7 +22,7 @@ export default {
 
 <style scoped>
 .s {
-  overflow: hidden;
+  overflow: hidden; /* 清除浮动 */
   width: 306px;
   background: #ccc;
 }

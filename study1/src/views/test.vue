@@ -13,15 +13,6 @@
         <option value="1">2</option>
       </select>
     </div>
-    // 盒子模型，文档流
-    // div img p iframe input
-    // tr td
-    // ul li
-    // ol li
-    // h1 h2 h3 ~~ h6
-    // *html5 的新标签
-    // 初学这些就行
-    // css选择器 ，三种定位方式， 浮动，清除浮动,*弹性布局
   </section>
 </template>
 
